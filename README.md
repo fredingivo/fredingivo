@@ -3,7 +3,7 @@ I'm an aspiring Data Scientist.
 
 BIO
 - 🏢 I'm currently working as a Software Engineer in HCL TECH
-- 🌱 Learning all about Data Science
+- 🌱 Learning from my flaws...
 - 💬 Ping me about Any Tech and design thinking ideas
 - 📫 Reach me: https://www.linkedin.com/in/fredingivo/
 
